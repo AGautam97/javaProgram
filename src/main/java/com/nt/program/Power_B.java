@@ -1,8 +1,8 @@
-package javaProgram;
+package com.nt.program;
 
 import java.util.Scanner;
 
-public class Power_A {
+public class Power_B {
 
 	public static void main(String[] args) {
 		int base;
