@@ -8,7 +8,7 @@ public class Program3 {
 		int input;
 		int x = 1;
 		Scanner s = new Scanner(System.in);
-		System.out.println("Enter The Number:");
+		System.out.println("Enter The Number: ");
 		input = s.nextInt();
 		if (input > 0) {
 			System.out.print("Input: " + input + " then output :" + x);

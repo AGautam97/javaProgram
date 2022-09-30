@@ -35,7 +35,7 @@ public class Program1 {
 				break;
 			}
 			System.out.println(result);
-			System.out.println("Do You Want To Continue----Press y for YES and n for NO");
+			System.out.println("Do You Want To Continue---Press y for YES and n for NO");
 			yes = s.next();
 		}
 		while (yes.equals("Y") || yes.equals("y"));
